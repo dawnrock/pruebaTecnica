@@ -1,0 +1,257 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Api\\Carglass.TechnicalAssessment.Backend.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Api\\Carglass.TechnicalAssessment.Backend.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Api\\Carglass.TechnicalAssessment.Backend.Api.csproj",
+        "projectName": "Carglass.TechnicalAssessment.Backend.Api",
+        "projectPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Api\\Carglass.TechnicalAssessment.Backend.Api.csproj",
+        "packagesPath": "C:\\Users\\jagonzalez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jagonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {
+              "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.BL\\Carglass.TechnicalAssessment.Backend.BL.csproj": {
+                "projectPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.BL\\Carglass.TechnicalAssessment.Backend.BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.BL\\Carglass.TechnicalAssessment.Backend.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.BL\\Carglass.TechnicalAssessment.Backend.BL.csproj",
+        "projectName": "Carglass.TechnicalAssessment.Backend.BL",
+        "projectPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.BL\\Carglass.TechnicalAssessment.Backend.BL.csproj",
+        "packagesPath": "C:\\Users\\jagonzalez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jagonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {
+              "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.DL\\Carglass.TechnicalAssessment.Backend.DL.csproj": {
+                "projectPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.DL\\Carglass.TechnicalAssessment.Backend.DL.csproj"
+              },
+              "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Dtos\\Carglass.TechnicalAssessment.Backend.Dtos.csproj": {
+                "projectPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Dtos\\Carglass.TechnicalAssessment.Backend.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.DL\\Carglass.TechnicalAssessment.Backend.DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.DL\\Carglass.TechnicalAssessment.Backend.DL.csproj",
+        "projectName": "Carglass.TechnicalAssessment.Backend.DL",
+        "projectPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.DL\\Carglass.TechnicalAssessment.Backend.DL.csproj",
+        "packagesPath": "C:\\Users\\jagonzalez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jagonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {
+              "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Entities\\Carglass.TechnicalAssessment.Backend.Entities.csproj": {
+                "projectPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Entities\\Carglass.TechnicalAssessment.Backend.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Dtos\\Carglass.TechnicalAssessment.Backend.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Dtos\\Carglass.TechnicalAssessment.Backend.Dtos.csproj",
+        "projectName": "Carglass.TechnicalAssessment.Backend.Dtos",
+        "projectPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Dtos\\Carglass.TechnicalAssessment.Backend.Dtos.csproj",
+        "packagesPath": "C:\\Users\\jagonzalez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jagonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Entities\\Carglass.TechnicalAssessment.Backend.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Entities\\Carglass.TechnicalAssessment.Backend.Entities.csproj",
+        "projectName": "Carglass.TechnicalAssessment.Backend.Entities",
+        "projectPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Entities\\Carglass.TechnicalAssessment.Backend.Entities.csproj",
+        "packagesPath": "C:\\Users\\jagonzalez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jagonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "LmnHf23KYFnoYUVCdXV2vt4dJvSAOStj3ubm0n5B9Qy6n1S6mnPLNUy0wpJNQVEw5gYJBs+h6CZuHbbO3jqXqw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.BL\\Carglass.TechnicalAssessment.Backend.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete AutoMapper 12.0.1 no es compatible con net60 (.NETFramework,Version=v6.0). El paquete AutoMapper 12.0.1 admite: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    }
+  ]
+}

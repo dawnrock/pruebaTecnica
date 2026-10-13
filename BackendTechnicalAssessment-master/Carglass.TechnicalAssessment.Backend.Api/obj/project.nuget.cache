@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "dgSpecHash": "pud2rfJfSqj4V+ttvdb1GtaOBOlfPzIR6fBkvCgP9cenkqd51Ve4hom/X+gulBiVKnbN3Qe+qkBvKIlfH9ZnxQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Api\\Carglass.TechnicalAssessment.Backend.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.1.0\\microsoft.aspnetcore.authentication.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.1.0\\microsoft.aspnetcore.authorization.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.authorization.policy\\2.1.0\\microsoft.aspnetcore.authorization.policy.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.1.0\\microsoft.aspnetcore.hosting.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.1.0\\microsoft.aspnetcore.hosting.server.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.http\\2.1.0\\microsoft.aspnetcore.http.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.0\\microsoft.aspnetcore.http.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.1.0\\microsoft.aspnetcore.http.extensions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.0\\microsoft.aspnetcore.http.features.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.1.0\\microsoft.aspnetcore.mvc.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.mvc.apiexplorer\\2.1.0\\microsoft.aspnetcore.mvc.apiexplorer.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.1.0\\microsoft.aspnetcore.mvc.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.mvc.dataannotations\\2.1.0\\microsoft.aspnetcore.mvc.dataannotations.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.1.0\\microsoft.aspnetcore.responsecaching.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.1.0\\microsoft.aspnetcore.routing.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.1.0\\microsoft.aspnetcore.routing.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.staticfiles\\2.1.0\\microsoft.aspnetcore.staticfiles.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.1.0\\microsoft.aspnetcore.webutilities.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\2.1.0\\microsoft.dotnet.platformabstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.0\\microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.dependencymodel\\2.1.0\\microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.1.0\\microsoft.extensions.fileproviders.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\2.1.0\\microsoft.extensions.fileproviders.embedded.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.1.0\\microsoft.extensions.hosting.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.localization\\2.1.0\\microsoft.extensions.localization.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\2.1.0\\microsoft.extensions.localization.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.objectpool\\2.1.0\\microsoft.extensions.objectpool.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.extensions.webencoders\\2.1.0\\microsoft.extensions.webencoders.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.net.http.headers\\2.1.0\\microsoft.net.http.headers.2.1.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.0.0\\system.runtime.interopservices.runtimeinformation.4.0.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 no es compatible con net60 (.NETFramework,Version=v6.0). El paquete AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 admite: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete AutoMapper 12.0.1 no es compatible con net60 (.NETFramework,Version=v6.0). El paquete AutoMapper 12.0.1 admite: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 no es compatible con net60 (.NETFramework,Version=v6.0) / win7-x86. El paquete AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 admite: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "AutoMapper.Extensions.Microsoft.DependencyInjection",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "El paquete AutoMapper 12.0.1 no es compatible con net60 (.NETFramework,Version=v6.0) / win7-x86. El paquete AutoMapper 12.0.1 admite: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        ".NETFramework,Version=v6.0/win7-x86"
+      ]
+    }
+  ]
+}
