@@ -1,18 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "jRoTZ3vWiPbKe04G7OgcEGU0T+jUbeyVcBGpL3Mczg1h7rbJGgQAK0F5GYpXfwR45YRRla+BAE66kJxGMWW+lQ==",
+  "dgSpecHash": "zfTGbP4Tvak=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Dtos\\Carglass.TechnicalAssessment.Backend.Dtos.csproj",
+  "projectFilePath": "/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.Dtos/Carglass.TechnicalAssessment.Backend.Dtos.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jagonzalez\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
-    "C:\\Users\\jagonzalez\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
-    "C:\\Users\\jagonzalez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
-    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
-    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
-    "C:\\Users\\jagonzalez\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+    "/home/codespace/.nuget/packages/autofac/7.1.0/autofac.7.1.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
   "logs": []
 }

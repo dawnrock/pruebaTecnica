@@ -18,8 +18,7 @@ public class ClientsController : ControllerBase
     [HttpGet]
     public IActionResult GetAll()
     {
-        // TODO Implement
-        throw new NotImplementedException();
+        return Ok(_clientAppService.GetAll());
     }
 
     [HttpGet]
@@ -32,8 +31,8 @@ public class ClientsController : ControllerBase
     [HttpPost]
     public IActionResult Create([FromBody] ClientDto dto)
     {
-        // TODO Implement
-        throw new NotImplementedException();
+        _clientAppService.Create(dto);
+        return Ok();
     }
 
     [HttpPut]
@@ -46,7 +45,7 @@ public class ClientsController : ControllerBase
     [HttpDelete]
     public IActionResult Delete([FromBody] ClientDto dto)
     {
-        // TODO Implement
-        throw new NotImplementedException();
+        _clientAppService.Delete(dto);
+        return Ok();
     }
 }

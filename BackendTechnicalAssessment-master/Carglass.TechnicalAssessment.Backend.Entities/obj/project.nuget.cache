@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "i/C59mNanW35SUd6fhVMpHlSQ8eMOZqhUZ8DBdgKX0mqIKujbcFhI4TE17AkWICgyGUmr6VlWVIen5WhKOBehw==",
+  "dgSpecHash": "wHQyAA0Uao8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jagonzalez\\Documents\\PruebaTecnica\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend\\Carglass.TechnicalAssessment.Backend.Entities\\Carglass.TechnicalAssessment.Backend.Entities.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.Entities/Carglass.TechnicalAssessment.Backend.Entities.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

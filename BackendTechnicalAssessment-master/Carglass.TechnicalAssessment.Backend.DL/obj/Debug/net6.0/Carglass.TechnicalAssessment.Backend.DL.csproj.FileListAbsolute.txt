@@ -1,0 +1,16 @@
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/obj/Debug/net6.0/Carglass.TechnicalAssessment.Backend.DL.csproj.AssemblyReference.cache
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/obj/Debug/net6.0/Carglass.TechnicalAssessment.Backend.DL.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/obj/Debug/net6.0/Carglass.TechnicalAssessment.Backend.DL.AssemblyInfoInputs.cache
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/obj/Debug/net6.0/Carglass.TechnicalAssessment.Backend.DL.AssemblyInfo.cs
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/obj/Debug/net6.0/Carglass.TechnicalAssessment.Backend.DL.csproj.CoreCompileInputs.cache
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/obj/Debug/net6.0/Carglass.TechnicalAssessment.Backend.DL.sourcelink.json
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/bin/Debug/net6.0/Carglass.TechnicalAssessment.Backend.DL.deps.json
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/bin/Debug/net6.0/Carglass.TechnicalAssessment.Backend.DL.dll
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/bin/Debug/net6.0/Carglass.TechnicalAssessment.Backend.DL.pdb
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/bin/Debug/net6.0/Carglass.TechnicalAssessment.Backend.Entities.dll
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/bin/Debug/net6.0/Carglass.TechnicalAssessment.Backend.Entities.pdb
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/obj/Debug/net6.0/Carglass.DCB03EA9.Up2Date
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/obj/Debug/net6.0/Carglass.TechnicalAssessment.Backend.DL.dll
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/obj/Debug/net6.0/refint/Carglass.TechnicalAssessment.Backend.DL.dll
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/obj/Debug/net6.0/Carglass.TechnicalAssessment.Backend.DL.pdb
+/workspaces/pruebaTecnica/BackendTechnicalAssessment-master/Carglass.TechnicalAssessment.Backend.DL/obj/Debug/net6.0/ref/Carglass.TechnicalAssessment.Backend.DL.dll

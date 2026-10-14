@@ -28,6 +28,9 @@ public class ClientDtoValidator : AbstractValidator<ClientDto>
             .EmailAddress()
             .WithMessage("El email no cumple el formato adecuado.");
 
-        // ... More validations (It is not necessary to create them)
+        RuleFor(x => x.DocNum)
+            .Matches(@"^\d{8}[A-Za-z]$")
+            .When(x => string.Equals(x.DocType, "nif", System.StringComparison.OrdinalIgnoreCase))
+            .WithMessage("El NIF debe tener 8 dígitos seguidos de una letra.");
     }
 }
