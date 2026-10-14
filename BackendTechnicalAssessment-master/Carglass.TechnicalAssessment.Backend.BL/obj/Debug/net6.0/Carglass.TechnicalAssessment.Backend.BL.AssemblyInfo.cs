@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Carglass.TechnicalAssessment.Backend.BL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db4c6d63a5532cf331ad02567adb08d7c41b8a95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18a1ea25aba27b083892ccc732a77323d47fa744")]
 [assembly: System.Reflection.AssemblyProductAttribute("Carglass.TechnicalAssessment.Backend.BL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Carglass.TechnicalAssessment.Backend.BL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

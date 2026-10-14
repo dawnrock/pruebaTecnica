@@ -35,15 +35,25 @@ public class ClientIMRepository : ICrudRepository<Client>
 
     public void Create(Client item)
     {
+        item.Id = _clients.Any() ? _clients.Max(x => x.Id) + 1 : 1;
         _clients.Add(item);
     }
 
     public void Update(Client item)
     {
-        var toUpdateItem = _clients.Single(x => x.Id == item.Id);
+        var toUpdateItem = _clients.SingleOrDefault(x => x.Id.Equals(item.Id));
 
-        _clients.Remove(toUpdateItem);
-        _clients.Add(item);     
+        if (toUpdateItem is null)
+        {
+            throw new KeyNotFoundException($"No existe un cliente con Id {item.Id}.");
+        }
+
+        toUpdateItem.DocType = item.DocType;
+        toUpdateItem.DocNum = item.DocNum;
+        toUpdateItem.Email = item.Email;
+        toUpdateItem.GivenName = item.GivenName;
+        toUpdateItem.FamilyName1 = item.FamilyName1;
+        toUpdateItem.Phone = item.Phone;
     }
 
     public void Delete(Client item)
